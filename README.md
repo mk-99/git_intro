@@ -17,3 +17,4 @@ Plus one line
 Plus one more line (17)
 - [Как просмотреть историю](./log_help.md)
 - [Как вернуться к прошлой версии](./reset_help.md)
+- [Ветвление](./branch_help.md)
